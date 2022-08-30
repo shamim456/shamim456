@@ -21,7 +21,7 @@ Skills: HTML / CSS/ Bootstrap/ JavaScript/ REACT
 [![trophy](https://github-profile-trophy.vercel.app/?username=shamim456)](https://github.com/ryo-ma/github-profile-trophy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamim456)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shamim456&show_icons=true&count_private=true)  
 
