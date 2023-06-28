@@ -2,7 +2,7 @@
 #### I Am Frontend Web Developer
 ![I Am Frontend Web Developer](https://as2.ftcdn.net/v2/jpg/03/13/40/45/1000_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg)
 
-Hello! I'm Shamim Hossen Hridoy. A Frontend Web Developer. Nowadays I'm Trying To Implement My Knowledge.
+Hello! I'm Shamim Hossen Hridoy. A MERN Stack Web Developer. Nowadays I'm Trying To Implement My Knowledge.
 
 Skills: HTML / CSS/ Bootstrap/ JavaScript/ REACT 
 
