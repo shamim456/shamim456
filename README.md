@@ -7,7 +7,6 @@ Hello! I'm Shamim Hossen Hridoy. A MERN Stack Web Developer. Nowadays I'm Trying
 Skills: HTML / CSS/ Bootstrap/ JavaScript/ REACT 
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning React 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: shamimhossen3912@gmail.com 
